@@ -28,7 +28,7 @@ bot.like_timeline()
 bot.like_medias(bot.get_timeline_medias())
 
 # likes media by hashtag(s)
-tags = ["l4l", "selfie"]
+tags = ["طبخ", "وصفات", "طبخات", "طبختي", "طبيخ", "مكياج", "مكياجي",]
 
 for t in tags:
     bot.like_hashtag(t)
