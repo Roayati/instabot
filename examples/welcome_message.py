@@ -16,7 +16,7 @@ from instabot import Bot, utils
 
 NOTIFIED_USERS_PATH = 'notified_users.txt'
 
-MESSAGE = 'Thank you for a script, sudoguy!'
+MESSAGE = 'شكراً للمتابعة 💛'
 
 parser = argparse.ArgumentParser(add_help=True)
 parser.add_argument('-u', type=str, help="username")
